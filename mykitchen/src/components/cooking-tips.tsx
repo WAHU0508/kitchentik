@@ -1,4 +1,4 @@
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import { Card, CardContent, CardHeader, CardTitle } from "@//components/ui/card"
 import { Lightbulb, ChefHat, Timer, Thermometer } from "lucide-react"
 
 const tips = [
