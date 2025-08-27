@@ -1,9 +1,9 @@
-import Header from "@/components/header"
-import HeroSection from "@/components/hero-section"
-import FeaturedRecipes from "@/components/featured-recipes"
-import CookingTips from "@/components/cooking-tips"
-import Newsletter from "@/components/newsletter"
-import Footer from "@/components/footer"
+import Header from "@//components/header"
+import HeroSection from "@//components/hero-section"
+import FeaturedRecipes from "@//components/featured-recipes"
+import CookingTips from "@//components/cooking-tips"
+import Newsletter from "@//components/newsletter"
+import Footer from "@//components/footer"
 
 export default function HomePage() {
   return (
