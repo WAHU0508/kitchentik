@@ -1,5 +1,5 @@
-import { Card, CardContent, CardFooter } from "@/components/ui/card"
-import { Badge } from "@/components/ui/badge"
+import { Card, CardContent, CardFooter } from "@//components/ui/card"
+import { Badge } from "@//components/ui/badge"
 import { Clock, Users } from "lucide-react"
 
 interface RecipeCardProps {
