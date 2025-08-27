@@ -1,4 +1,4 @@
-import { Button } from "@/components/ui/button"
+import { Button } from "@//components/ui/button"
 import { Search, Menu } from "lucide-react"
 
 export default function Header() {
